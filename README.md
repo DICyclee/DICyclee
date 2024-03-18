@@ -1,5 +1,5 @@
 Hi there 👋  
-I'm currently a graduate student in the Department of Computer Science and Information Engineering at National Cheng Kung University, majoring in digital IC design and .
+I'm currently a Ph.D student in the Department of Computer Science and Information Engineering at National Cheng Kung University, majoring in digital IC design and .
 
 <!--
 **DICyclee/DICyclee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
