@@ -1,4 +1,4 @@
-**Hi there 👋**
+**Hi there 👋**  
 **I'm currently a graduate student in the Department of Computer Science and Information Engineering at National Cheng Kung University, majoring in digital IC design.**
 
 <!--
