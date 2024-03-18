@@ -1,5 +1,8 @@
 **Hi there 👋**  
 **I'm currently a graduate student in the Department of Computer Science and Information Engineering at National Cheng Kung University, majoring in Digital IC Design and Cryptography.**
+# About me
+ - E-Mail:  
+&emsp;p76124231@gs.ncku.edu.tw 
 
 <!--
 **DICyclee/DICyclee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
