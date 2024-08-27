@@ -1,4 +1,4 @@
-**I'm currently a graduate student in the Department of Computer Science and Information Engineering at National Cheng Kung University, majoring in Digital IC Design and Cryptography.**
+**I'm currently a graduate student in the Department of Computer Science and Information Engineering at National Cheng Kung University, majoring in Digital IC Design and Post-Quantum Cryptography.**
 # About me
 - E-Mail：  
 &emsp;p76124231@gs.ncku.edu.tw
